@@ -1,0 +1,12 @@
+[
+    {
+        "name"   :"Akshata",
+        "age"    : 24,
+        "height" : 156
+    },
+    {
+        "name"   :"Priya",
+        "age"    : 19,
+        "height" : 156
+    }
+]
